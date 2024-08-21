@@ -6,7 +6,7 @@
         <ref type="branch">
             <pattern>.+</pattern>
             <describeTagPattern><![CDATA[v(?<version>.*)]]></describeTagPattern>
-            <version>${describe.tag.version}-${ref}-SNAPSHOT</version>
+            <version>2.1.7</version>
         </ref>
 
         <ref type="tag">
